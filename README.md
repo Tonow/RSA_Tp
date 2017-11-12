@@ -34,7 +34,7 @@ Generation d'un cle Rsa et sont utilisation
 - [x] ok gencle : genere une clé avec les cinq éléments
 - [x] a tester chiffre :  chiffre un message avec la partir de la clé
 - [x] a tester dechiffre : dechiffre un message préalablement chiffrer
-- [] TODO signe : signe le message
-- [] TODO verifie : verifie la signature
-- [] TODO Miller-Rabine : teste la primarité
+- [ ] TODO signe : signe le message
+- [ ] TODO verifie : verifie la signature
+- [ ] TODO Miller-Rabine : teste la primarité
 - [x] Exponantiation modulaire : calcule une exponantiel en aritmetique modulaire
