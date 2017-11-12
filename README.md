@@ -1,6 +1,8 @@
 # TP3 RSA
 ---------
 
+Generation d'un cle Rsa et sont utilisation
+
 ---------------
 ### Utilisation
 ---------------
@@ -14,6 +16,7 @@
 
 ```python3 rsa.py```
 
+
 ----------------
 ### Contributeur
 ----------------
@@ -21,6 +24,7 @@
 Alex Chivot
 Pierre Pasquier
 Thomas Nowicki
+
 
 --------------
 ### Avancement
